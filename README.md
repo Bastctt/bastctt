@@ -14,9 +14,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23FF9900.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=Bastctt&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bastctt&theme=default_repocard&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastctt&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bastctt&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Bastctt&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastctt&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastctt/bastctt/output/github-snake-dark.svg" />
