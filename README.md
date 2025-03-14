@@ -1,6 +1,6 @@
 
 # Hello World!, I'm Bastien, a French Web Developer 👋🏼
-👨🏼‍🎓 Studying a Master of Science at Epitech Lyon<br>👨🏼‍💻 Working as a fullstack developer since 2024<br> 🛜 Currently working on my own webpage<br></i>
+👨🏼‍🎓 Studying a Master of Science at Epitech Lyon<br>👨🏼‍💻 Working as a fullstack developer since 2023<br> 🛜 Currently working on my own webpage<br></i>
 
 # 💻 Tech Stack :
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
