@@ -1,5 +1,5 @@
 
-# Hello World!, I'm Bastien, a French Web Developer 👋🏼
+# Hello World!, I'm Bastien, a French Fullstack Developer 👋🏼
 👨🏼‍🎓 Studying a Master of Science at Epitech Lyon<br>👨🏼‍💻 Working as a fullstack developer since 2023<br> 🛜 Currently working on my own webpage<br></i>
 
 # 💻 Tech Stack :
