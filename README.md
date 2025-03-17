@@ -15,7 +15,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23FF9900.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=Bastctt&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Bastctt&theme=default&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Bastctt&theme=default_repocard&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastctt&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
